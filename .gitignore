@@ -1,0 +1,41 @@
+# .gitignore
+
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+fruitbot-server
+fruitbot-server-*
+
+# Test binary
+*.test
+
+# Output of go coverage
+*.out
+
+# Dependency directories
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sessions (contain sensitive data)
+sessions/
+*.fb
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
