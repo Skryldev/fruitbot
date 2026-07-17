@@ -1,4 +1,3 @@
-// internal/domain/models/hero_test.go
 package models
 
 import (
