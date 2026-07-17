@@ -581,7 +581,7 @@ client := NewClient(
 
 ```bash
 # Clone and run
-git clone https://github.com/AmirSF01/fruitbot-go && cd fruitbot-go
+git clone [https://github.com/AmirSF01/fruitbot-go](https://github.com/Skryldev/fruitbot.git) && cd fruitbot
 go run . -port 8080
 
 # In another terminal:
